@@ -32,7 +32,7 @@ pip install flask numpy matplotlib
 3. **Run the script**:
 
 ```bash
-python quantum_file_integrity_checker.py
+python quantum_simulator.py
 ```
 
 4. **Your default browser will open** at `http://127.0.0.1:5000`.
